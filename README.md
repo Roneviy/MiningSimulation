@@ -16,7 +16,5 @@ This simple JavaScript program simulates a mining process using the SHA256 hash 
 
 ## Code Structure
 
-- `mining_simulation.js`: The main script containing the mining simulation logic.
+- `index.js`: The main script containing the mining simulation logic.
 - `package.json`: Configuration file for Node.js project dependencies.
-
-## Example Output
