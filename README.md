@@ -18,3 +18,6 @@ This simple JavaScript program simulates a mining process using the SHA256 hash 
 
 - `index.js`: The main script containing the mining simulation logic.
 - `package.json`: Configuration file for Node.js project dependencies.
+
+## Example Output
+![image](https://github.com/Roneviy/MiningSimulation/assets/147179910/7d3b16b1-6628-458e-a603-8150e7ef5b47)
